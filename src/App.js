@@ -1,7 +1,6 @@
 import React from 'react';
 import {Cards, Chart ,CountryPicker} from './components';
 import styles from'./App.module.css';
-
 import {fetchdata} from './api/index.js';
 import image from'./images/components.png';
 
